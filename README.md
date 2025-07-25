@@ -4,5 +4,6 @@
 
 # 推荐系统基础知识
 - 召回
+  - Collaborative Filtering []
 - 排序
 - 重排
