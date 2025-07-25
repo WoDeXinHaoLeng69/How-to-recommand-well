@@ -4,6 +4,6 @@
 
 # 推荐系统基础知识
 - 召回
-  - Collaborative Filtering []
+  - [Collaborative Filtering](https://github.com/WoDeXinHaoLeng69/How-to-recommand-well/tree/main/Collaborative%20Filtering)
 - 排序
 - 重排
